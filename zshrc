@@ -99,4 +99,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias sz="source .zshrc"
 alias k="kubectl"
-
+alias d="docker"
